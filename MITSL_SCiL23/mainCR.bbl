@@ -1,0 +1,91 @@
+\begin{thebibliography}{15}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Aks{\"e}nova(2020)}]{aksenova2020tool}
+Al{\"e}na Aks{\"e}nova. 2020.
+\newblock \emph{Tool-assisted induction of subregular languages and mappings}.
+\newblock Ph.D. thesis, State University of New York at Stony Brook.
+
+\bibitem[{Chandlee(2017)}]{chandlee2017computational}
+Jane Chandlee. 2017.
+\newblock Computational locality in morphological maps.
+\newblock \emph{Morphology}, 27(4):599--641.
+
+\bibitem[{Chandlee and Heinz(2018)}]{ChandleeHeinz18}
+Jane Chandlee and Jeffrey Heinz. 2018.
+\newblock Strict locality and phonological maps.
+\newblock \emph{Linguistic Inquiry}, 49:23--60.
+
+\bibitem[{De~la Higuera(2010)}]{Higuera2010grammatical}
+Colin De~la Higuera. 2010.
+\newblock \emph{Grammatical inference: learning automata and grammars}.
+\newblock Cambridge University Press.
+
+\bibitem[{De~Santo and Aks{\"e}nova(2021)}]{de2021learning}
+Aniello De~Santo and Al{\"e}na Aks{\"e}nova. 2021.
+\newblock Learning interactions of local and non-local phonotactic constraints
+  from positive input.
+\newblock \emph{Proceedings of the Society for Computation in Linguistics},
+  4(1):167--176.
+
+\bibitem[{De~Santo and Graf(2019)}]{de2019structure}
+Aniello De~Santo and Thomas Graf. 2019.
+\newblock Structure sensitive tier projection: Applications and formal
+  properties.
+\newblock In \emph{International conference on formal grammar}, pages 35--50.
+  Springer.
+
+\bibitem[{Graf and Mayer(2018)}]{GrafMayer18}
+Thomas Graf and Connor Mayer. 2018.
+\newblock Sanskrit n-retroflexion is input-output tier-based strictly local.
+\newblock In \emph{Proceedings of {SIGMorPhon} 2018}.
+
+\bibitem[{Heinz et~al.(2011)Heinz, Rawal, and Tanner}]{heinz2011tier}
+Jeffrey Heinz, Chetan Rawal, and Herbert~G Tanner. 2011.
+\newblock Tier-based strictly local constraints for phonology.
+\newblock In \emph{Proceedings of the 49th Annual Meeting of the Association
+  for Computational Linguistics: Human language technologies}, pages 58--64.
+
+\bibitem[{Hyman and Katamba(2010)}]{hyman2010tone}
+Larry~M Hyman and Francis~X Katamba. 2010.
+\newblock Tone, syntax, and prosodic domains in luganda.
+\newblock \emph{ZAS Papers in Linguistics}, 53:69--98.
+
+\bibitem[{Jardine(2016)}]{Jardine16}
+Adam Jardine. 2016.
+\newblock \href
+  {http://udel.edu/~ajardine/files/jardinemscomputationallytoneisdifferent.pdf}
+  {Computationally, tone is different}.
+\newblock \emph{Phonology}.
+
+\bibitem[{Jardine and Heinz(2016{\natexlab{a}})}]{jardine2016learning}
+Adam Jardine and Jeffrey Heinz. 2016{\natexlab{a}}.
+\newblock Learning tier-based strictly 2-local languages.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  4:87--98.
+
+\bibitem[{Jardine and Heinz(2016{\natexlab{b}})}]{JardineHeinz16}
+Adam Jardine and Jeffrey Heinz. 2016{\natexlab{b}}.
+\newblock \href {https://aclweb.org/anthology/Q/Q16/Q16-1007.pdf} {Learning
+  tier-based strictly 2-local languages}.
+\newblock \emph{Transactions of the ACL}, 4:87--98.
+
+\bibitem[{Jardine and McMullin(2017)}]{jardinemcmullin17}
+Adam Jardine and Kevin McMullin. 2017.
+\newblock Efficient learning of tier-based strictly $k$-local languages.
+\newblock In \emph{Language and Automata Theory and Applications, 11th
+  International Conference}, LNCS, pages 64--76. Springer.
+
+\bibitem[{McMullin et~al.(2019)McMullin, Aks{\"e}nova, and
+  De~Santo}]{McMullinSCIL2019}
+Kevin McMullin, Al{\"e}na Aks{\"e}nova, and Aniello De~Santo. 2019.
+\newblock \href {https://doi.org/https://doi.org/10.7275/s8ym-bx57} {Learning
+  phonotactic restrictions on multiple tiers}.
+\newblock \emph{Proccedings of {SCiL} 2019}, 2(1):377--378.
+
+\bibitem[{McNaughton and Papert(1971)}]{McNaughtonPapert71}
+Robert McNaughton and Seymour Papert. 1971.
+\newblock \emph{Counter-Free Automata}.
+\newblock MIT Press, Cambridge.
+
+\end{thebibliography}

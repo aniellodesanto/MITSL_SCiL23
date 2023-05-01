@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mainCR.aux
+The style file: acl_natbib.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: custom.bib
+Database file #2: sstsl.bib
+Database file #3: cls2017.bib
+Repeated entry---line 349 of file cls2017.bib
+ : @article{   JardineHeinz16
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 469 of file cls2017.bib
+ : @inproceedings{   JardineMcMullin17
+ :                                    ,
+I'm skipping whatever remains of this entry
+Database file #4: yale2016.bib
+Repeated entry---line 288 of file yale2016.bib
+ : @article{   JardineHeinz16
+ :                           ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 15 entries,
+            3571 wiz_defined-function locations,
+            789 strings with 7987 characters,
+and the built_in function-call counts, 9594 in all, are:
+= -- 885
+> -- 327
+< -- 18
++ -- 100
+- -- 84
+* -- 568
+:= -- 1436
+add.period$ -- 62
+call.type$ -- 15
+change.case$ -- 108
+chr.to.int$ -- 16
+cite$ -- 15
+duplicate$ -- 648
+empty$ -- 772
+format.name$ -- 139
+if$ -- 2143
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 128
+newline$ -- 79
+num.names$ -- 60
+pop$ -- 272
+preamble$ -- 1
+purify$ -- 88
+quote$ -- 0
+skip$ -- 527
+stack$ -- 0
+substring$ -- 390
+swap$ -- 313
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 129
+warning$ -- 0
+while$ -- 68
+width$ -- 0
+write$ -- 197
+(There were 3 error messages)
